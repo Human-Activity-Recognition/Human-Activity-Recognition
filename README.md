@@ -493,5 +493,4 @@ with tf.Session() as sess:
 
 
 
-[0]: ./123/123.jpg        "0"
-[1]: ./123/35334.jpg   "1"
+[0]: ./123/screen.jpg        "0"
