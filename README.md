@@ -10,11 +10,11 @@ like:*walking, standing, stting, laying, waiking upstairs and downstairs* 6 kind
 	* [Required Software](#required-software)
 	* [Hardware Connection](#hardware-connection)
 * [User Manual](#user-manual)
-	* [Compatible Model](#Compatible Model)
-	* [UART send 3-axis accelerometer](#UART send 3-axis accelerometer)
-	* [UART recieve 3-axis accelerometer](#UART recieve 3-axis accelerometer)
-	* [Training Model](#Training Model)
-	* [Put realtime 3-axis accelerometer observing result](#Put realtime 3-axis accelerometer observing result)
+	* [Compatible Model](#compatible-model)
+	* [UART send 3-axis accelerometer](#UART-send-3-axis-accelerometer)
+	* [UART recieve 3-axis accelerometer](#UART-recieve-3-axis-accelerometer)
+	* [Training Model](#Training-Model)
+	* [Put realtime 3-axis accelerometer observing result](#Put-realtime-3-axis-accelerometer-observing-result)
 
 
 ## Introduction
