@@ -20,7 +20,7 @@ the result
 
 All hardware are in the picture following:
 
-![k1][1]
+![k1][0]
 
 ### Required Software
 - Metaware or ARC GNU Toolset
@@ -493,4 +493,4 @@ with tf.Session() as sess:
 
 
 
-[0]: ./123/screen.jpg        "0"
+[0]: ./screen/35334.jpg        "All hardware"
